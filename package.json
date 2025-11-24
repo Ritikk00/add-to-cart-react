@@ -8,9 +8,10 @@
     "preview": "vite preview"
   },
 
-       "engines": {
-    "node": "18.x"
-  },
+    "engines": {
+  "node": "22.x"
+},
+
 
   "dependencies": {
     "react": "^18.2.0",
